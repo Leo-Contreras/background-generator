@@ -1,0 +1,23 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leo-Contreras/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leo-Contreras/background-generator/issues"
+  },
+  "homepage": "https://github.com/Leo-Contreras/background-generator#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "lodash": "^4.17.21"
+  }
+}
